@@ -5,7 +5,7 @@
     background-color: #12313A;
 
     .sidebar-logo {
-        padding-bottom: 50px;
+        padding-bottom: 30px;
     }
 
     .sidebar-main {
@@ -19,7 +19,7 @@
 
             .sidebar-list {
                 padding: 11px 13px;
-                margin: 15px 0px;
+                margin: 13px 0px;
                 color: #B1D5EA;
                 display: flex;
                 align-items: center;
@@ -38,11 +38,11 @@
             }
 
             .sidebar-last {
-                margin-top: 80px;
+                margin-top: 50px;
             }
 
             .sidebar-last:hover {
-                margin-top: 80px;
+                margin-top: 50px;
             }
 
         }

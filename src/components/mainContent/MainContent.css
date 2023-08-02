@@ -16,7 +16,7 @@
 
         .main-content-head {
             color: #7C859E;
-            font-size: 18px;
+            font-size: 16px;
             font-style: normal;
             font-weight: 500;
             line-height: normal;
@@ -28,7 +28,7 @@
 
         .main-content-head:hover {
             color: #0593A5;
-            font-size: 18px;
+            font-size: 16px;
             font-style: normal;
             font-weight: 700;
             border-bottom: 5px solid #0593A5;
@@ -45,7 +45,7 @@
         background-color: #D5E1EE;
         /* padding-left: 45px;  */
         margin-left: 67px;
-        overflow: hidden;
+        overflow-x: hidden;
     }
 
     .main-content-body {
@@ -55,7 +55,7 @@
 
         .main-content-b1 {
             color: #7C859E;
-            font-size: 18px;
+            font-size: 16px;
             font-style: normal;
             font-weight: 500;
             line-height: normal;
